@@ -43,7 +43,7 @@
 NOWERROR ?= 1
 
 # This needs to be python2 at the moment everywhere but OS X (fixed later)
-PYTHON_EXECUTABLE ?= python2
+PYTHON_EXECUTABLE ?= python3
 
 # Cause the build system to regenerate itself, in case it changed
 REGENIE ?= 1
